@@ -9,3 +9,4 @@ spec:
       namespace: upbound-system
       name: aws-creds
       key: creds
+
