@@ -114,8 +114,8 @@ For the Compositions Training we assume you have completed the following labs. T
 
 - [Lab 01: Installing a Kind Cluster](lab01/lab01.md)
 - [Lab 02: Installing UXP](lab02/lab02.md)
-- [Lab 03: Installing an Official Provider](lab03/aws/lab03.md)
-- [Lab 04: Deploying a Managed Resource](lab04/aws/lab04.md)
+- Lab 03: Installing an Official Provider [AWS](lab03/aws/lab03.md) | [Azure](lab03/azure/lab03.md)
+- Lab 04: Deploying a Managed Resource [AWS](lab04/aws/lab04.md) | [Azure](lab04/azure/lab04.md)
 
 ---
 
@@ -150,9 +150,8 @@ At the end of Labs 01 and 02 we have:
 
 In these labs we’ll install the AWS provider and deploy a Managed resource.
 
-- [Lab 03: Installing an Official Provider](lab03/aws/lab03.md)
-- [Lab 04: Deploying a Managed Resource](lab04/aws/lab04.md)
-
+- Lab 03: Installing an Official Provider [AWS](lab03/aws/lab03.md) | [Azure](lab03/azure/lab03.md)
+- Lab 04: Deploying a Managed Resource [AWS](lab04/aws/lab04.md) | [Azure](lab04/azure/lab04.md)
 ---
 
 <!-- slide 14 -->
@@ -356,7 +355,7 @@ img {
 
 In this lab we’ll install a Composition, an XRD, and request a Claim.
 
-- [LAB 05: Building a Composition](lab05/aws/lab05.md)
+- LAB 05: Building a Composition [AWS](lab05/aws/lab05.md) | [Azure](lab05/azure/lab05.md)
 
 ---
 
@@ -444,7 +443,7 @@ Key Topics:
 
 In these labs we will extend the XRD and Composition for Lab 05 with additional automatically validated field and implement transform patch.
 
-- [LAB 06: Extending a Composition](lab06/aws/lab06.md)
+- LAB 06: Extending a Composition [AWS](lab06/aws/lab06.md) | [Azure](lab06/azure/lab06.md)
 
 ---
 
@@ -493,7 +492,7 @@ img {
 
 In these labs we will propagate composed RDS Instance status up to Composite Resource (XR) status and afterwards consume this data for IAM Policy creation.
 
-- [LAB 07: XR Status Patching](lab07/aws/lab07.md)
+- LAB 07: XR Status Patching [AWS](lab07/aws/lab07.md) | [Azure](lab07/azure/lab07.md) 
 
 ---
 
@@ -625,8 +624,8 @@ We’ll cover installing a Configuration package in Lab 09.
 ## LAB 09: Installing a Configuration Package
 
 In these labs we’ll build, push, and install a Configuration Package.
-- [LAB 08: Packaging Compositions as a Configuration](lab08/aws/lab08.md)
-- [LAB 09: Installing a Configuration Package](lab09/aws/lab09.md)
+- LAB 08: Packaging Compositions as a Configuration [AWS](lab08/aws/lab08.md) | [Azure](lab08/azure/lab08.md)
+- LAB 09: Installing a Configuration Package [AWS](lab09/aws/lab09.md) | [Azure](lab09/aws/lab09.md)
 
 ---
 
